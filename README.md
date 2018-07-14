@@ -1,6 +1,32 @@
-# XYZReader
+# XYZReader 07/07/2018
+===================================
+
 This app transformed the user experience of a news reading app using Material Design principles.
 This includes consistent and meaningful use of Material Design UI components, fonts, color, motion and surfaces.
+
+Pre-requisites
+--------------
+
+- Android SDK v21
+- Android Build Tools v21.0.1
+- Android Support Repository v21.1.1
+
+Getting Started
+---------------
+
+This project uses the Gradle build system. To build this project, use the
+"gradlew build" command or use "Import Project" in Android Studio.
+
+Support
+-------
+
+Patches are encouraged, and may be submitted by forking this project and
+submitting a pull request through GitHub.
+
+XYZReader can be reached at:
+
+voice :    714-781-9308
+E-mail:    hammedopejin@yahoo.com
 
 ## Video Walkthrough 
 
